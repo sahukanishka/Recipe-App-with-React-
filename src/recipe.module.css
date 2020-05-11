@@ -1,0 +1,12 @@
+.recipe{
+    border-radius: 10px;
+    box-shadow: azure;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: white;
+    align-items: center;
+    min-width: 40%;
+    padding: 20px;
+}
